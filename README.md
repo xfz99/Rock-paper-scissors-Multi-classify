@@ -13,3 +13,7 @@ training.ipynb:进行最重要的模型训练。前面基本上无需改动，�
 test.ipynb：如果已经训练好了模型，但又还没到整体运行的水平的话，可以用用我编写的test代码测试一下性能。
 
 Main.ipynb：主程序在此，用就完事了。
+
+数据集的下载链接:链接：https://pan.baidu.com/s/1KkG8rf7FiFuOI0Txtv8CRw 
+提取码：tmvw 
+复制这段内容后打开百度网盘手机App，操作更方便哦
